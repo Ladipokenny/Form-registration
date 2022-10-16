@@ -7,16 +7,16 @@
         <p>Kindly fill in the required information.</p>
 
         <form action="user_data.php" method="POST">
-            <label for="name"><strong> Name</strong></label>
+            <label for="name"><strong> Name:</strong></label>
          <br>  <input type="text" name="name" placeholder="Name" required>
   <br>
 
 
-<label for="name"><strong>Email</strong>:</label>
+<label for="name"><strong>Email:</strong></label>
         <br>    <input type="text" name="email" placeholder="Email" required>
   <br>
 
-<label for="Date of Birth"><strong>DOB:</strong>:</label>
+<label for="Date of Birth"><strong>DOB:</strong></label>
 <input type="date" name="dob" required>
 </label>  <br> 
 
